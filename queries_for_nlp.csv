@@ -1,0 +1,15 @@
+id,executive_id,priority,user_id,query,is_processed,created_at,pseudonym,depart_name,conversation_id
+14,7,medium,18,How do I reset my password for the company portal/email?,1,03-10-2023 12:18,,IT,1
+17,7,low,19,My computer is running slow; can it be upgraded or replaced?,1,03-10-2023 12:19,,IT,0
+18,3,medium,20,applied for leave,1,03-10-2023 12:20,,HR,0
+19,3,high,20,applied for leave,1,03-10-2023 12:22,,HR,0
+20,7,medium,21,How can I access company resources remotely?,1,03-10-2023 12:22,,IT,0
+21,3,medium,18,applied for leave,1,03-10-2023 12:23,,HR,0
+24,4,high,21,When is the last date for submitting travel or other expense claims?,1,03-10-2023 12:25,,Finance,0
+25,7,low,19,I'm having issues with a software/application,1,03-10-2023 12:26,,IT,0
+26,4,medium,20,What's the procedure to claim medical expenses?,1,03-10-2023 12:27,,Finance,0
+27,3,high,21,Can you explain the maternity/paternity leave policy?,1,03-10-2023 16:42,,HR,0
+28,3,low,19,What is the process for applying for leave?,1,03-10-2023 16:43,,HR,0
+29,3,high,18,applied leave for second half,1,03-10-2023 16:46,,HR,0
+30,3,low,18,How can I update my personal information in the company records?,1,04-10-2023 17:26,,HR,0
+31,7,high,18,How do I reset my password for the company portal/email?,0,10-10-2023 10:40,,IT,0
